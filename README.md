@@ -33,7 +33,7 @@ Verás una lista de 30 adjetivos. Cada vez que vuelvas a hacer la petición, sal
 
 Tu misión es calcular esa probabilidad con la mayor precisión posible.
 
-😅 Evidentemente no tienes acceso a la lista de adjetivos con su probabilidad, eso es lo ultrasecreto ;)
+😅 Evidentemente no tienes acceso a la lista de adjetivos con su probabilidad, eso es lo _ultrasecreto_ ;)
 
 **¿Por qué no lo hemos puesto en un servidor?**
 
