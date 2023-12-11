@@ -23,6 +23,7 @@ Tienes que colarte en la red interna de los adjetivos y saber cuántos son y con
 
 Solo así volverán a donde pertenecen. A las palabras justas y adecuadas.
 
+‎
 
 ## 🛠️ ¿De qué va el reto?
 
@@ -32,11 +33,22 @@ Verás una lista de 30 adjetivos. Cada vez que vuelvas a hacer la petición, sal
 
 Tu misión es calcular esa probabilidad con la mayor precisión posible.
 
-😅 Evidentemente no tienes acceso a la lista de adjetivos con su probabilidad ;)
+😅 Evidentemente no tienes acceso a la lista de adjetivos con su probabilidad, eso es lo ultrasecreto ;)
+
+**¿Por qué no lo hemos puesto en un servidor?**
+
+Porque el número de peticiones que haréis jugando con esto va a ser muy elevada. Y porque nos gusta complicarnos la vida en exceso.
+
+**¿Y si extraigo el código y así saco la probabilidad?**
+
+Nadie podrá evitar que lo hagas, pero se romperá la magia.
+
+‎
 
 ### Pasos funcionales:
 
-1. Descarga de este repositorio los ejecutables para tu sistema 
+1. Descarga [desde las releases](https://github.com/webreactiva-devs/tormenta-adjetivos-reversos/releases) los ejecutables para tu sistema operativo o para Docker
+	👉 En [este enlace](https://github.com/webreactiva-devs/tormenta-adjetivos-reversos/releases) también encontrarás las instrucciones para ponerlo en marcha
 2. Lanza el ejecutable: lanzará una web en tu puerto 3000
 3. Abre https://localhost:3000 en tu navegador y verás la lista de adjetivos en un array de JSON
 4. Cada vez que vuelvas a lanzar la petición, saldrá una lista diferente
@@ -45,50 +57,52 @@ Tu misión es calcular esa probabilidad con la mayor precisión posible.
 
 
 
-🚨 Si tienes algún problema con el ejecutable, ponte en contacto con @danielprimo
+🚨 Si tienes algún problema con el ejecutable, ponte en contacto con Dani
 
+‎
 
 
 ## 👩‍💻 ¿Cómo participas en el reto?
 
-👉 Debes rellenar este formulario
+👉 [Debes rellenar este formulario](https://tally.so/r/3N7vel)
 
-- Te pediremos datos sobre los adjetivos con mayor probabilidad.
+- Te pedimos datos sobre los adjetivos con mayor probabilidad que habrás calculado con presteza.
 - También el número total de adjetivos de la lista.
 - Y alguna cosilla más.
 
 🥳 El día 21 de Diciembre, Jueves, a las 19:00 CET veremos quién se ha acercado más a la solución perfecta.
 
+🎁 Sortearemos cositas secretas el día 21, mejor anótalo en tu agenda ;)
+
+‎
+
 
 ## 📋 Requisitos del reto
 
 
-🚨 Puedes hacerlo en el LENGUAJE que quieras.
+1️⃣  Puedes hacerlo en el lenguaje de programación que quieras.
 
-1️⃣ No tienes que compartir el código (por lo menos hasta el día 21)
+2️⃣ Solo te pedimos el código para evitar la picaresca, pero lo de menos es como te lo hayas montado para sacarlo ;)  
 
-2️⃣ Se busca echarle imaginación al asunto
+3️⃣  Échale diversión, ¡no es un examen!
 
-3️⃣ Basta con resolver la parte del JSON, la parte de “Cazando nubes de adjetivos” es una troleada, para ver si se nos ocurre algo…
-
-## 😱 Cazando nubes de adjetivos
-
-Partimos de esta imagen:
-
-
-La probabilidad de la aparición de cada adjetivo es directamente proporcional al tamaño que ocupan en la imagen.
-
-¿Sabías calcularlo?
+‎
 
 
 ## 🗓️ Fecha límite
 
-21 de Diciembre de 2023
+21 de Diciembre de 2023, 18:00 CET.
 
+‎
 
+## 😎 Esto no hubiera sido posible sin…
 
+¡Gracias [ Niltsiar ](https://github.com/niltisiar)!
+
+Si no llega a ser por su asistencia de última hora no habría ejecutables funcionales y hubiéramos fundido internet a base de peticiones :D
 
 ## 🤗 Mecenazgo
 Este reto se realiza por y para la [Comunidad Malandriner](https://webreactiva.com/comunidad)
 
 ❤️
+
