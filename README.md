@@ -35,6 +35,14 @@ Tu misión es calcular esa probabilidad con la mayor precisión posible.
 
 😅 Evidentemente no tienes acceso a la lista de adjetivos con su probabilidad, eso es lo _ultrasecreto_ ;)
 
+
+### Dato importante:
+
+Hace falta un dato para que la precisión aumente en el cálculo. Y es este: Suma de todas las probabilidades de todos los adjetivos de la lista: 256
+
+
+### Otras preguntas:
+
 **¿Por qué no lo hemos puesto en un servidor?**
 
 Porque el número de peticiones que haréis jugando con esto va a ser muy elevada. Y porque nos gusta complicarnos la vida en exceso.
