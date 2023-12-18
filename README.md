@@ -40,6 +40,10 @@ Tu misión es calcular esa probabilidad con la mayor precisión posible.
 
 Hace falta un dato para que la precisión aumente en el cálculo. Y es este: Suma de todas las probabilidades de todos los adjetivos de la lista: 256
 
+En este vídeo se explica que significa esto:
+
+https://tv.webreactiva.com/recordings/Oj9lLc0QViPT5knFfuDf
+
 
 ### Otras preguntas:
 
